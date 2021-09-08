@@ -2,8 +2,12 @@
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
 
-ZCZC W00 10 L03 Doing Assignment #1 and #2
-ZCZC W00 60 L04 Doing Assignment #3
-ZCZC W00 20 L05 Assignment #4
-ZCZC W00 30 L06 Assignment #5
+ZCZC W00 5 L11 Doing Assignment #1 
+ZCZC W00 5 L12 Doing Assignment #2
+ZCZC W00 60 L13 Doing Assignment #3
+ZCZC W00 20 L14 Assignment #4
+ZCZC W00 30 L15 Assignment #5
 ZCZC W01 05 L22 Quiz
+ZCZC W01 70 L80 Watching netflix series
+ZCZC W01 45 L73 Gaming
+
