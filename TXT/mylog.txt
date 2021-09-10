@@ -10,4 +10,5 @@ ZCZC W00 30 L15 Assignment #5
 ZCZC W01 05 L22 Quiz
 ZCZC W01 70 L80 Watching netflix series
 ZCZC W01 45 L73 Gaming
-
+ZCZC W01 120 L10 Assignment in general
+ZCZC W01 100 L14 Assignment #4
