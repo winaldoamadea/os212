@@ -1,4 +1,3 @@
-permalink: /LINKS/
 
 # LINKS
 These are some links that important in my opinion regarding Operating System 2021
