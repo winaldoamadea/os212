@@ -9,7 +9,7 @@ These are some links that important in my opinion regarding Operating System 202
    This website is to check the reports
 3. [OS SCELE WEBSITE](https://scele.cs.ui.ac.id/course/view.php?id=3268)
    Scele website for Operating System 2021
-4. [C Programming Language Cheatsheet] (https://developerinsider.co/c-programming-language-cheat-sheet/)
+4. [C Programming Language Cheatsheet](https://developerinsider.co/c-programming-language-cheat-sheet/)
    Cheatsheet for C Language
-5. [C Tutorial Language] (https://www.javatpoint.com/c-programming-language-tutorial)
+5. [C Tutorial Language](https://www.javatpoint.com/c-programming-language-tutorial)
    C Tutorial Language
