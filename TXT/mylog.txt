@@ -25,3 +25,13 @@ ZCZC W02  45 L11 Assignment #01
 ZCZC W03  10 L01 SCELE/Discord related
 ZCZC W03  60 L10 Assignment in general
 ZCZC W03 100 L73 Gaming
+ZCZC W04  05 L22 Quiz
+ZCZC W04 50 L11 Assignment #01
+ZCZC W04 60 L12 Assignment #02
+ZCZC W04 50 L13 Assignment #03
+ZCZC W04 30 L14 Assignment #04
+ZCZC W04 40 L15 Assignment #05
+ZCZC W04 30 L16 Assignment #06
+ZCZC W04 35 L17 Assignment #07
+ZCZC W04 15 L18 Assignment #08
+ZCZC W04 10 L19 Assignment #09
