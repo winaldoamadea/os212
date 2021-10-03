@@ -13,3 +13,9 @@ These are some links that important in my opinion regarding Operating System 202
    Cheatsheet for C Language
 5. [C Tutorial Language](https://www.javatpoint.com/c-programming-language-tutorial)
    C Tutorial Language
+6. [Learn Dyanmic Memory Allocation](https://www.design-reuse.com/articles/25090/dynamic-memory-allocation-fragmentation-c.html)
+   Dynamic Memory Allocation
+7. [Linux Common Command List](https://www.dummies.com/computers/operating-systems/linux/common-linux-commands/)
+   Command List for Linux
+8. [Linux Bash Command](https://www.computerhope.com/unix/ubash.htm)
+   Bash Command For Linux
