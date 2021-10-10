@@ -21,6 +21,7 @@ These are some links that important in my opinion regarding Operating System 202
    Bash Command For Linux
 9. [Introduction to C Pointer](https://www.studytonight.com/c/pointers-in-c.php#:~:text=Introduction%20to%20C%20Pointers,exciting%20features%20of%20C%20language) 
    Introduction to C Pointer
+
 10.[Virtual Memory](https://www.geeksforgeeks.org/virtual-memory-in-operating-system/)
    Virtual Memory in Operating System
   
