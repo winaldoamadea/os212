@@ -25,7 +25,7 @@ These are some links that important in my opinion regarding Operating System 202
 10.[Virtual Memory](https://www.geeksforgeeks.org/virtual-memory-in-operating-system/)
    Virtual Memory in Operating System
   
-11. [Fork] (https://linuxhint.com/fork-system-call-linux/#:~:text=The%20fork%20system%20call%20is,parent%20processes%20are%20executed%20concurrently.)
+11. [Fork](https://linuxhint.com/fork-system-call-linux/#:~:text=The%20fork%20system%20call%20is,parent%20processes%20are%20executed%20concurrently.)
    About Fork in General
-12.[Threads vs Proccess] (https://www.google.com/search?q=threads+vs+processes&oq=threads+vs+pro&aqs=chrome.0.0i512j69i57j0i20i263i512j0i512l7.1922j0j7&sourceid=chrome&ie=UTF-8)
+12.[Threads vs Proccess](https://www.google.com/search?q=threads+vs+processes&oq=threads+vs+pro&aqs=chrome.0.0i512j69i57j0i20i263i512j0i512l7.1922j0j7&sourceid=chrome&ie=UTF-8)
    What is the difference?
