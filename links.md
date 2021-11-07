@@ -30,7 +30,9 @@ These are some links that important in my opinion regarding Operating System 202
 
 12.[Threads vs Proccess](https://www.google.com/search?q=threads+vs+processes&oq=threads+vs+pro&aqs=chrome.0.0i512j69i57j0i20i263i512j0i512l7.1922j0j7&sourceid=chrome&ie=UTF-8)
    What is the difference?
+   
 13. [Process Synchronization](https://www.guru99.com/process-synchronization.html)
    Process Synchronization Critical Problems
+   
 14. [Semaphore](https://www.tutorialspoint.com/semaphores-in-operating-system#:~:text=Semaphores%20are%20integer%20variables%20that,S%2C%20if%20it%20is%20positive.)
    Semaphore In Operating System
