@@ -36,3 +36,9 @@ These are some links that important in my opinion regarding Operating System 202
    
 14. [Semaphore](https://www.tutorialspoint.com/semaphores-in-operating-system#:~:text=Semaphores%20are%20integer%20variables%20that,S%2C%20if%20it%20is%20positive.)
    Semaphore In Operating System
+   
+15. [Linux From Scratch](https://www.linuxfromscratch.org/lfs/view/11.0/chapter05/gcc-libstdc++-pass1.html)
+   Linux From Scratch
+   
+ 16. [Playlist video](https://www.youtube.com/channel/UCFajCKBeNRW16Xb5mJvrCvw)
+   Playlist video linux from scratch
