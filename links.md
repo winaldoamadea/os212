@@ -42,3 +42,6 @@ These are some links that important in my opinion regarding Operating System 202
    
  16. [Playlist video](https://www.youtube.com/channel/UCFajCKBeNRW16Xb5mJvrCvw)
    Playlist video linux from scratch
+   
+ 17. [Fix FLS Problem](https://www.linuxquestions.org/questions/linux-from-scratch-13/)
+   Help on solving the problem
