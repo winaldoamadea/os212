@@ -67,3 +67,11 @@ ZCZC W08 100 L15 Assignments #05
 ZCZC W08 20 L22 Quiz
 ZCZC W08 80 L16 Assignments #06
 ZCZC W08 70 L73 Gaming
+ZCZC W09 60 L11 Assignments #01
+ZCZC W09 70 L12 Assignments #02
+ZCZC W09 80 L13 Assignemnts #03
+ZCZC W09 50 L14 Assignments #04
+ZCZC W09 40 L15 Assignment #05
+ZCZC W09 80 L16 Assignment #06
+ZCZC W09 60 L17 Assignment #07
+ZCZC W09 40 L18 Assignment #08
